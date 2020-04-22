@@ -1,6 +1,7 @@
 # Kaggle-machine-learning *Em desenvolvimento !*
 Pesquisa no kaggle, esse repositorio são as competições e pesquisas feita no kaggle data science.
 
+![Perfil kaggle](https://www.kaggle.com/gallorafael01)
 
 ![Inteligência artificial](https://github.com/RafaelGallo/Kaggle-machine-learning/blob/master/ai.gif)
 
