@@ -1,9 +1,6 @@
 # Kaggle-machine-learning *Em desenvolvimento !*
 Pesquisa no kaggle, esse repositorio são as competições e pesquisas feita no kaggle data science.
 
-# Perfil
-[Perfil](https://www.kaggle.com/gallorafael01)
-
 # Tópicos 2
 Ferramentas: Python, R, machine learning, modelos de machine learning, algoritmos de M.L, redes neurais.
 
