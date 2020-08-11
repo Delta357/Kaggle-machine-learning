@@ -1,7 +1,9 @@
 # Kaggle-machine-learning *Em desenvolvimento !*
-Pesquisa no kaggle, esse repositorio são as competições e pesquisas feita no kaggle data science.
+Competições feita 
 
-# Tópicos 2
-Ferramentas: Python, R, machine learning, modelos de machine learning, algoritmos de M.L, redes neurais.
+1 - MNIST - Digit Recognizer
+2 - MNIST - Fashio
+3 - Modelo machine learning - Iris
+
 
 ![Machine learning](https://github.com/RafaelGallo/Kaggle-machine-learning/blob/master/source.gif)
