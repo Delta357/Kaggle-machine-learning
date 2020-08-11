@@ -1,7 +1,7 @@
 # Kaggle-machine-learning *Em desenvolvimento !*
 Competições feita 
 
-1 - MNIST - Digit Recognizer**
+1 - MNIST - Digit Recognizer
 
 2 - MNIST - Fashio
 
