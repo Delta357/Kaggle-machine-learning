@@ -2,4 +2,4 @@
 Competições feita 
 
 
-![Machine learning](https://github.com/RafaelGallo/Kaggle-machine-learning/blob/master/source.gif)
+![Machine learning](https://raw.githubusercontent.com/RafaelGallo/Kaggle-machine-learning/master/ai.gif)
